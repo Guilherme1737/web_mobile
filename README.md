@@ -1,2 +1,3 @@
 # web_mobile
-Repositório da disciplina DevWebMobile
+Repositório da disciplina de Desenvolvimento WebMobile
+
